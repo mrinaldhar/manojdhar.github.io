@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Manoj Dhar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Vice Chancellor, University of Jammu"
+  location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Dhar+MK&cauthor_id=32152722"
   googlescholar    : "https://scholar.google.com/citations?user=hjwgJigAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Manoj-Kumar-Dhar"
